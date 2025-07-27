@@ -12,8 +12,12 @@ Open, High, Low, Close, Volume) for at least 5 diverse financial instruments
 
 Homework2: Predicting stock index returns
 • Choose S&P 500 index (SPY)
+
 • Predict its next-month monthly return for a period of 5 years (out of sample), using a
 rolling estimation window of past 5 years (in sample)
+
 • Evaluate prediction performance
+
 • Use different factor models (Fama-French 3 factors, 5 factors, etc.)
+
 • Use different linear models (LR, ridge, lasso
