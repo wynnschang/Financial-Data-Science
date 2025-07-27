@@ -3,7 +3,7 @@ Group Project: Unsupervised Learning - Credit Card Default
 
 Homework1: Enhancing Financial Data for Predictive Modeling
 1. Use the yfinance library to download historical data (e.g., daily prices including
-Open, High, Low, Close, Volume) for at least 5 diverse financial instruments
+Open, High, Low, Close, Volume) for diverse financial instruments
 (stocks, ETFs, or indices) for the past five years.
 2. Handle missing values (e.g., due to market holidays or incomplete records)
 3. Plot time series of daily returns
