@@ -18,6 +18,6 @@ rolling estimation window of past 5 years (in sample)
 
 • Evaluate prediction performance
 
-• Use different factor models (Fama-French 3 factors, 5 factors, etc.)
+• Use different factor models (Fama-French 3 factors, 5 factors)
 
-• Use different linear models (LR, ridge, lasso
+• Use different linear models (LR, ridge, lasso)
