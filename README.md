@@ -1,5 +1,5 @@
 # Financial-Data-Science
-Group Project: Unsupervised Learning - Credit Card Default
+Group Project: Unsupervised Learning - Credit Card Default Prediction & Risk Monitor Model
 
 Homework1: Enhancing Financial Data for Predictive Modeling
 1. Use the yfinance library to download historical data (e.g., daily prices including
